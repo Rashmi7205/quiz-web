@@ -70,6 +70,7 @@ button{
 {
     text-align: justify;
     text-transform: capitalize;
+    color:#BBBBBB;
     
 }
 #count
@@ -89,7 +90,7 @@ button{
     {
     height:400px;
     width:80%;
-    margin:250px auto;
+    margin:25% auto;
     background-color:#03506F;
     box-shadow: 10px 10px 40px #010101;
     border-radius: 20px;

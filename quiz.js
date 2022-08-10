@@ -11,12 +11,12 @@ let q=[
         ans:"dennis rtchie"
     },
     {
-        question:"full form of html?",
-        opt1:"option one",
-        opt2:"option two",
-        opt3:"hyper text mark up language",
-        opt4:"option four",
-        ans:"hyper text mark up language"
+        question:"In which year it is invented?",
+        opt1:"1945",
+        opt2:"1974",
+        opt3:"1946",
+        opt4:"None of the above",
+        ans:"1974"
     },
     {
         question:"How many keywords present in c?",
@@ -27,13 +27,62 @@ let q=[
         ans:"32"
     },
     {
-        question:"How many keywords present in c?",
-        opt1:"90",
-        opt2:"89",
-        opt3:"32",
+        question:"C is a Statically typed lanuage?",
+        opt1:"true",
+        opt2:"false",
+        opt3:"partially true",
         opt4:"None of the above",
-        ans:"32"
+        ans:"true"
+    },
+    {
+        question:"How many types of data type present in c?",
+        opt1:"4",
+        opt2:"6",
+        opt3:"8",
+        opt4:"10",
+        ans:"4"
+    },
+    {
+        question:"Sizeof(int ) will return the _ value?",
+        opt1:"5",
+        opt2:"2",
+        opt3:"9",
+        opt4:"4",
+        ans:"4"
+    },
+    {
+        question:"Oerator overloadding is suppoted by c?",
+        opt1:"true",
+        opt2:"false",
+        opt3:"none of the above",
+        opt4:"in some cases supported",
+        ans:"false"
+    },
+    {
+        question:"What is pointer?",
+        opt1:"variable stores address",
+        opt2:"variable stores data",
+        opt3:"All the above",
+        opt4:"None of the above",
+        ans:"variable stores address"
+    },
+    {
+        question:"array is a __ type of data type?",
+        opt1:"user defined",
+        opt2:"pre defined",
+        opt3:"derived",
+        opt4:"basic",
+        ans:"derived"
+    },
+    {
+        question:"Dynamic memory alloctaion done by :",
+        opt1:"malloc()",
+        opt2:"sum()",
+        opt3:"add()",
+        opt4:"mul()",
+        ans:"malloc()"
     }
+
    
 ];
     let j=0;
